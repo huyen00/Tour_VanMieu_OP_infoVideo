@@ -1,0 +1,240 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7.url = //www.youtube.com/embed/OoQ65IxUVXg?v=OoQ65IxUVXg
+WebFrame_75BB0316_6347_4A52_41D7_EE0F191138F7_mobile.url = //www.youtube.com/embed/OoQ65IxUVXg?v=OoQ65IxUVXg
+PopupWebFrameBehaviour_71105108_66FD_D884_41C4_71A26E106D27.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
+PopupWebFrameBehaviour_09E87DFE_1444_DFBD_41B0_1950E8DE7E6A.url = //www.youtube.com/embed/nWPrPqjfPwM?v=nWPrPqjfPwM
+WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F.url = //www.youtube.com/embed/RbNyOFcgx7k
+WebFrame_74B65A54_669B_488D_41D8_AF7852BA985F_mobile.url = //www.youtube.com/embed/RbNyOFcgx7k
+WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648.url = //www.youtube.com/embed/j-ELWEjiZlI
+WebFrame_74B78595_669B_DB8F_41D8_C62B17E6E648_mobile.url = //www.youtube.com/embed/j-ELWEjiZlI
+WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A_mobile.url = //www.youtube.com/embed/jt0cr5OQCuU
+WebFrame_75E49A4D_66A5_C89E_41D4_F08862DBD70A.url = //www.youtube.com/embed/jt0cr5OQCuU
+WebFrame_74C27772_669A_D88A_41D5_AACA113F195D.url = //www.youtube.com/embed/map4N9P5oTU
+WebFrame_74C27772_669A_D88A_41D5_AACA113F195D_mobile.url = //www.youtube.com/embed/map4N9P5oTU
+WebFrame_74B8A5A4_669B_5B8E_41C1_550DC723C9CE_mobile.url = //www.youtube.com/embed/x-F7dw9V3Qw
+WebFrame_74B8A5A4_669B_5B8E_41C1_550DC723C9CE.url = //www.youtube.com/embed/x-F7dw9V3Qw
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_0E7DD323_1932_EF13_41B2_6137F0B244D4.toolTip =  Khuê Văn Các
+HotspotPanoramaOverlayArea_1096BB03_05FB_D109_4184_D3E8F32B2484.toolTip = Cầu thang dẫn hướng
+HotspotPanoramaOverlayArea_115757A2_0599_711F_4165_F0DEFE1D93F7.toolTip = Cầu thang dẫn hướng
+HotspotPanoramaOverlayArea_11E91473_0599_77FD_418D_DB358615898B.toolTip = Cầu thang dẫn hướng
+HotspotPanoramaOverlayArea_109CBDD4_05FB_310F_4160_202DC082B858.toolTip = Cầu thang dẫn hướng
+HotspotPanoramaOverlayArea_0FCD5973_1951_9BF3_41B1_46C81E2F94DA.toolTip = Cổng Vào Khuê Văn Các
+HotspotPanoramaOverlayArea_0F356967_1931_9B13_41A2_F81807788400.toolTip = Cổng Vào Khuê Văn Các
+HotspotPanoramaOverlayArea_0100D88F_14C5_A5C4_41B1_19D52F4739C0.toolTip = Cổng Vào Khuê Văn các
+HotspotPanoramaOverlayArea_39A97ACC_1AD2_7990_41B4_4A34C96CB71C.toolTip = Cổng vào Khuê Văn Các
+HotspotPanoramaOverlayArea_07B13075_1443_652F_4184_4F82F2B8D421.toolTip = Cổng vào Khuê Văn Các
+HotspotPanoramaOverlayArea_0D24DEA3_14C3_BDA2_41B2_214C66E90F1B.toolTip = Cổng vào Khuê Văn Các
+HotspotPanoramaOverlayArea_0DD81A34_14C4_A4A4_419F_61C951D7C483.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_01624152_14FF_6765_4187_71996C6EF7A1.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0E20F5B2_1932_6B0D_41A3_859DF6E083E4.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0FC07727_194F_B713_4185_B2382401D003.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0FD28ED5_194E_B937_419D_9B86D6411138.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_01D442C4_1937_A915_4188_1AC2A493169C.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0C50F141_1951_EB0F_4193_BAD171131EEE.toolTip = Khuê Văn Các
+HotspotPanoramaOverlayArea_0115C1B5_14C4_A7CB_4191_196728B7E9E5.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_12014C57_05B8_D71C_4170_EB60CF4C995F.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_02E6E415_14C4_ECDA_4173_B36BC33108F3.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_13D3C540_05B8_D174_4185_15F4D2F36B00.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_10F6AA8B_058B_3310_4185_AD85817B5BD3.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_112C6D9B_057B_312D_4184_0BB763AC7627.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_135345E7_059F_F117_4191_DB356610DAC6.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_0D1442BF_14C5_E5A4_41B3_8AD8658F5BDE.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_0D06AEC9_14C5_5DE6_41A6_98F75C4250DF.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_112E5FDC_0589_512B_4184_4785984340CB.toolTip = Khuê Văn Các và Nhà Bia
+HotspotPanoramaOverlayArea_2885EC65_3813_5D0A_41C4_CA8461CF9CFF.toolTip = Nguồn gốc của Văn Miếu - Quốc Tử Giám
+HotspotPanoramaOverlayArea_014B7C8D_14CF_5DCA_419F_6F9B5B50D976.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_0D2AAE43_14C5_BCEA_4192_373C6F43E84E.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_0DC8C852_14C4_A4FC_41B1_684F3EBBC21E.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_112F679B_0579_312D_4160_2C07FC4287FB.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_1111D8B0_0589_5F7B_4193_9023DBCD1726.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_01DD1A38_14C4_A53F_41A1_65EBF9400FE2.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_133556F0_0589_530E_4194_54544D9C39C0.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_1338F761_0598_D10B_4193_C569ECDB829B.toolTip = Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_0DC92373_14C5_64BD_41A5_0B59A82ABF53.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_10F8C361_058B_3109_418E_B1E98CAF14D5.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_0DCDBA85_14C5_A466_41B2_66E4C80B778B.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_1306E471_05F9_5709_4188_5E15AB95074C.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_0276CABA_144F_65C8_4173_199511616668.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_111E189C_0597_5F2B_4192_301352F4B870.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_11033CC1_059F_D71D_4191_7110A4BAF292.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_013BB5BC_14CF_AF3C_41A1_D940625118B8.toolTip = Nhà Thái Học
+HotspotPanoramaOverlayArea_0D3B6690_14C4_AC67_41A9_562BED42D6F6.toolTip = Sân Nhà Thái Học
+HotspotPanoramaOverlayArea_11050227_0599_3365_4193_3E4D1293BE42.toolTip = Sân Nhà Thái Học
+HotspotPanoramaOverlayArea_13D825CB_05B9_510A_4191_E102971AE2CC.toolTip = Sân Nhà Thái Học
+HotspotPanoramaOverlayArea_02028B4A_1445_DB49_417F_B4B3F75EB46E.toolTip = Sân Nhà Thái Học
+HotspotPanoramaOverlayArea_10A5566E_05F8_D31B_4179_9753977391F4.toolTip = Sân Nhà Thái Học
+HotspotPanoramaOverlayArea_12E28AB9_05B9_D316_4193_3B1EE431E8D8.toolTip = Sân Nhà Thái Học
+HotspotPanoramaOverlayArea_28FC940D_3814_CD1B_41BA_F9980012FCED.toolTip = Thông tin Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_28A9409E_3834_C539_41B3_EFB5F8FB94C4.toolTip = Thông tin của Khu Thờ Chu Văn An
+HotspotPanoramaOverlayArea_2890B163_380D_C70F_41B3_642238A57DC4.toolTip = Thông tin của Khuê Văn Các
+HotspotPanoramaOverlayArea_288E216D_380F_4718_41C6_2FA04CDFEF4F.toolTip = Thông tin của Khuê Văn Các
+HotspotPanoramaOverlayArea_28DBC280_3834_C509_41CA_0E47726B8B5A.toolTip = Thông tin của Khuê Văn Các
+HotspotPanoramaOverlayArea_299835F7_380D_CEF7_419F_BE159390F9B4.toolTip = Thông tin của Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_28F72693_3833_CD0F_41CB_65D8B6192737.toolTip = Thông tin của Nhà Bia Tiến Sỹ
+HotspotPanoramaOverlayArea_28B047F9_3835_CAFB_41C4_E2B61288CC03.toolTip = Thông tin của Nhà Thái Học
+HotspotPanoramaOverlayArea_039FF7CF_15C7_6B94_41A6_17FDC3582185.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_02BF33B9_144F_EBC9_41B1_570F4ABC2056.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_001B0E4C_144C_DD7E_41A0_4F4B31A13A54.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_02FD0A5C_14BC_A484_41B4_314A3D54D471.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_027986A2_1444_EDF8_41B4_AD9C4268149E.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_075E31DA_1443_671A_41AF_6C13CF8E12E9.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_070D9A17_1445_E4EA_41B3_E7BEFDCAFB98.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_0102ECB3_144F_BDD8_4175_B6891B7F1DAC.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám
+HotspotPanoramaOverlayArea_01BDFEE8_14C4_BD25_419A_A62FFACB9A24.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+HotspotPanoramaOverlayArea_022667C5_1443_6B81_41B5_54EEF485661D.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+HotspotPanoramaOverlayArea_02594295_144C_A5D9_41A4_1DCEDA06B416.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+HotspotPanoramaOverlayArea_02F1974D_144C_EB48_41B2_6733FE1E29A1.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+HotspotPanoramaOverlayArea_01FCFF27_14C5_DB2B_41A4_38653FAF3C15.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+HotspotPanoramaOverlayArea_0630E31D_1444_AB1E_41A4_0A82750F8370.toolTip = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+HotspotPanoramaOverlayArea_115B5EE3_059B_331D_416A_FA2FACCB76BC.toolTip = Tượng Chu Văn An
+HotspotPanoramaOverlayArea_11447D8C_0598_D12B_4186_EA6C79B69B81.toolTip = Tượng Chu Văn An
+HotspotPanoramaOverlayArea_10F4E276_0588_D308_4177_A7D148C99EF4.toolTip = Tượng Chu Văn An
+HotspotPanoramaOverlayArea_10CE9E74_05F9_D30E_4194_EF561FCC2A63.toolTip = Tượng Chu Văn An
+HotspotPanoramaOverlayArea_108D2343_05FF_3109_418D_F000CF6049C5.toolTip = Tượng Lý Thánh Tông
+HotspotPanoramaOverlayArea_115A91FB_0599_70ED_4151_A2C665365797.toolTip = Tượng Lý Thánh Tông
+
+## Media
+
+### Audio
+audiores_04E1FF2A_1B7E_78F4_41B5_ED46250A72AC.mp3Url = media/audio_07DA3E44_1B71_F8BC_41A3_812868DCC8C0_en.mp3
+audiores_2FCD0B15_3833_5B08_41CA_8C8C28164FA6.mp3Url = media/audio_2057E54C_380C_CF19_419C_D33A8C826298_en.mp3
+audiores_2FC967A2_3833_4B09_41CB_FBA588090104.mp3Url = media/audio_2F10BC43_3814_FD0F_41BA_69F7C927D666_en.mp3
+audiores_2F902C12_380D_BD09_41BA_ADDACCA689B8.mp3Url = media/audio_2F7BEEBD_380D_DD7B_41B3_808BC042C8D4_en.mp3
+audiores_2FC71529_3833_4F1B_41C5_9AF0C755E0C9.mp3Url = media/audio_2F9ACC13_3817_5D0F_41BB_E2C15F0C1540_en.mp3
+audiores_21624B8B_380C_BB1F_41B0_BB8E9C38BAD3.mp3Url = media/audio_2F9BB032_3814_C509_41C7_AB0C335E92FA_en.mp3
+audiores_2FC01E47_380C_BD17_41C2_2E0DCDDC5ABD.mp3Url = media/audio_2FEAD693_3817_CD0F_4198_E9ABF349C3B9_en.mp3
+
+### Floorplan
+
+### Image
+imlevel_7F688D9F_66AD_4BBC_41D3_5DC9E33EFB3D.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_0.jpg
+imlevel_7F68BD9F_66AD_4BBC_417C_E0080C4D184D.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_1.jpg
+imlevel_7F6B5D9F_66AD_4BBC_41D1_385688022CB9.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_2.jpg
+imlevel_7F6B4D9F_66AD_4BB6_419E_C99EBFF23804.url = media/map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0_en_3.jpg
+
+### Title
+panorama_0AF3875B_0103_52BC_411C_E9E2D575F950.label = Cầu Thang 
+panorama_0DB853B5_1071_369B_41A3_3C5921D16D4E.label = Cổng Vào Khuê Văn Các
+panorama_0AF315D0_0103_B18C_416F_5667CB97DFAC.label = Khuê Văn Các
+panorama_21DE9844_3813_4509_41B7_78A768DD57C8.label = Khuê Văn Các và Nhà Bia
+map_1D1AF000_0EF2_1AF5_41A7_65311D6827C0.label = Map_DinhVi
+panorama_0AF29BD9_0103_D1BC_416D_0ABB0A009458.label = Nhà Bia Tiến Sỹ
+panorama_0AF34E6F_0103_F294_411B_FAF02FF2A150.label = Nhà Thái Học
+panorama_21751555_3814_CF0B_4199_1214CD0A6C52.label = Sân Nhà Thái Học
+panorama_0D53C2F0_0101_B38C_4133_497236F08240.label = Toàn cảnh Văn Miếu Quốc Tử Giám
+panorama_0AE8D0BD_0100_CFF4_4168_D7F89E1E25E6.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+panorama_2271AAAF_3817_4517_41C9_66CA4D3953BF.label = Tượng Chu Văn An 
+panorama_209B03D8_3815_4B39_41B0_2F7BC6F43D0C.label = Tượng Lý Thánh Tông
+
+## Skin
+
+### Dropdown
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = AMENITIES
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B_mobile.label = AMENITIES
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29_mobile.label = RECEPTION
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = RECEPTION
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE_mobile.label = RESTAURANTS
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = RESTAURANTS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312_mobile.label = ROOMS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ROOMS
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7_mobile.label = SPORTS AREA
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09_mobile.label = SWIMMING POOL
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_en.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
+Image_12282D53_0F32_0560_41A9_249420493370.url = skin/Image_12282D53_0F32_0560_41A9_249420493370_en.png
+Image_12282D53_0F32_0560_41A9_249420493370_mobile.url = skin/Image_12282D53_0F32_0560_41A9_249420493370_mobile_en.png
+Image_1CBE7C7D_0EF2_0B0E_416B_528B9D960348.url = skin/Image_1CBE7C7D_0EF2_0B0E_416B_528B9D960348_en.png
+Image_1CBE7C7D_0EF2_0B0E_416B_528B9D960348_mobile.url = skin/Image_1CBE7C7D_0EF2_0B0E_416B_528B9D960348_mobile_en.png
+Image_2B184B96_383C_DB09_4181_E1D9F2D953FF.url = skin/Image_2B184B96_383C_DB09_4181_E1D9F2D953FF_en.jpg
+Image_2B184B96_383C_DB09_4181_E1D9F2D953FF_mobile.url = skin/Image_2B184B96_383C_DB09_4181_E1D9F2D953FF_mobile_en.jpg
+Image_74B65594_669B_DB8D_41A8_E71FC8ACEACC.url = skin/Image_74B65594_669B_DB8D_41A8_E71FC8ACEACC_en.jpg
+Image_74B65594_669B_DB8D_41A8_E71FC8ACEACC_mobile.url = skin/Image_74B65594_669B_DB8D_41A8_E71FC8ACEACC_mobile_en.jpg
+Image_74B68A53_669B_488B_41C7_A28D75D3772F.url = skin/Image_74B68A53_669B_488B_41C7_A28D75D3772F_en.jpg
+Image_74B68A53_669B_488B_41C7_A28D75D3772F_mobile.url = skin/Image_74B68A53_669B_488B_41C7_A28D75D3772F_mobile_en.jpg
+Image_74B8F5A4_669B_5B8E_41D0_6D3CCCD46983.url = skin/Image_74B8F5A4_669B_5B8E_41D0_6D3CCCD46983_en.jpg
+Image_74B8F5A4_669B_5B8E_41D0_6D3CCCD46983_mobile.url = skin/Image_74B8F5A4_669B_5B8E_41D0_6D3CCCD46983_mobile_en.jpg
+Image_74C1C772_669A_D88A_41CA_405A8A738796.url = skin/Image_74C1C772_669A_D88A_41CA_405A8A738796_en.jpg
+Image_74C1C772_669A_D88A_41CA_405A8A738796_mobile.url = skin/Image_74C1C772_669A_D88A_41CA_405A8A738796_mobile_en.jpg
+Image_75E56A4C_66A5_C89E_41CE_CBB20C2BC7B2.url = skin/Image_75E56A4C_66A5_C89E_41CE_CBB20C2BC7B2_en.jpg
+Image_75E56A4C_66A5_C89E_41CE_CBB20C2BC7B2_mobile.url = skin/Image_75E56A4C_66A5_C89E_41CE_CBB20C2BC7B2_mobile_en.jpg
+
+### Label
+Label_171B73D4_0F2D_FD1E_41AB_6A75FF25A954_mobile.text = << MAP
+Label_171B73D4_0F2D_FD1E_41AB_6A75FF25A954.text = << MAP
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = COMPANY NAME
+Label_1665B881_0ED2_0BF6_41AA_848104C84AB5.text = Tổng thể mặt bằng
+Label_1665B881_0ED2_0BF6_41AA_848104C84AB5_mobile.text = Tổng thể mặt bằng
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = Văn Miếu Quốc Tử Giám
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = Văn Miếu Quốc Tử Giám
+Label_2EB1A6F4_0F36_0715_41A2_11CF5365B417.text = {{title}}
+Label_2EB1A6F4_0F36_0715_41A2_11CF5365B417_mobile.text = {{title}}
+
+### Multiline Text
+HTMLText_18E3A96B_0FD1_1386_414D_CF281DD335BE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;"><B>THÔNG TIN DỰ ÁN</B></SPAN></SPAN></DIV></div>
+HTMLText_18E3A96B_0FD1_1386_414D_CF281DD335BE_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;"><B>THÔNG TIN DỰ ÁN</B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.610000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7400000000000009vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7400000000000009vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+
+### Tooltip
+IconButton_1C8BF7AA_0FD1_3EEE_419C_0FE023BB85DB.toolTip = Coppy link to share
+IconButton_1C8BF7AA_0FD1_3EEE_419C_0FE023BB85DB_mobile.toolTip = Coppy link to share
+IconButton_1DB836AD_0FD3_3EE5_419A_8ABE23EE84B0_mobile.toolTip = Fullscreen
+IconButton_1DB836AD_0FD3_3EE5_419A_8ABE23EE84B0.toolTip = Fullscreen
+IconButton_1CC193C3_0FD3_169E_4190_7C9DB37C5893_mobile.toolTip = Hướng dẫn sử dụng
+IconButton_1CC193C3_0FD3_169E_4190_7C9DB37C5893.toolTip = Hướng dẫn sử dụng
+IconButton_1C081002_0FD1_119E_4196_D5BFEB70F98E.toolTip = Mở / Tắt âm thanh
+IconButton_1C081002_0FD1_119E_4196_D5BFEB70F98E_mobile.toolTip = Mở / Tắt âm thanh
+Label_171B73D4_0F2D_FD1E_41AB_6A75FF25A954_mobile.toolTip = Mở bản đồ
+Label_171B73D4_0F2D_FD1E_41AB_6A75FF25A954.toolTip = Mở bản đồ
+IconButton_13CFA38F_0F6E_1DF9_419C_5B4F7DA1CB73.toolTip = Quay lại địa điểm trước
+IconButton_13CFA38F_0F6E_1DF9_419C_5B4F7DA1CB73_mobile.toolTip = Quay lại địa điểm trước
+IconButton_1C8F9568_0FD1_126A_41A6_371A4726A2A3_mobile.toolTip = Thông tin dự án
+IconButton_1C8F9568_0FD1_126A_41A6_371A4726A2A3.toolTip = Thông tin dự án
+IconButton_1A65F843_0FF3_1191_4160_0373B3EF4510.toolTip = VR headset
+IconButton_1A65F843_0FF3_1191_4160_0373B3EF4510_mobile.toolTip = VR headset
+IconButton_1C302697_0FD1_1EA6_4195_85971A4FE37B_mobile.toolTip = Xem video
+IconButton_1C302697_0FD1_1EA6_4195_85971A4FE37B.toolTip = Xem video
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Con Sáng Tạo
+
+## VR Menu
+
+### Text
+MenuItem_7CD5B485_66AD_798C_41C1_2896037CADA0.label = Cầu Thang 
+MenuItem_7CD5D485_66AD_798C_41BF_787E11CE010D.label = Cổng Vào Khuê Văn Các
+MenuItem_7CD47485_66AD_798C_41BB_346EE9F599D8.label = Khuê Văn Các
+MenuItem_7CD5F484_66AD_798C_41B2_0A1B2CA4388D.label = Khuê Văn Các và Nhà Bia
+Menu_0429B36F_1E7D_BF34_4190_DC1D83EA87F3.label = Menu
+MenuItem_7CD43485_66AD_798C_41D0_EB66CF3D32D1.label = Nhà Bia Tiến Sỹ
+MenuItem_7CD45485_66AD_798C_41D9_A4D463DA22ED.label = Nhà Thái Học
+MenuItem_7CD59485_66AD_798C_41D8_53690F88BC63.label = Sân Nhà Thái Học
+MenuItem_7CD5A485_66AD_798C_41A4_A3CF5814B78C.label = Toàn cảnh Văn Miếu Quốc Tử Giám
+MenuItem_7CD40485_66AD_798C_41BD_6C065ACC180C.label = Toàn cảnh Văn Miếu Quốc Tử Giám 2
+MenuItem_7CD5E484_66AD_798C_41C4_7B7C0939C3D0.label = Tượng Chu Văn An 
+MenuItem_7CD44485_66AD_798C_41CC_42C8484A235A.label = Tượng Lý Thánh Tông
